@@ -43,15 +43,6 @@ Cazador de bugs por pasión y profesión. Me especializo en construir suites de 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidHunter94&show_icons=true&theme=default&hide_border=true&title_color=1B5FA3&icon_color=1B5FA3" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHunter94&layout=compact&hide_border=true&title_color=1B5FA3" height="150" />
-</p>
-
----
-
 ## 🌐 Encuéntrame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmartinez94)
