@@ -1,12 +1,21 @@
-# Hola, soy Víctor David 👋
+# ✨ ¡Hola, soy Víctor David! 👋
 
-### QA Engineer · Automatización UI & API · CI/CD
-
-Cazador de bugs por pasión y profesión. Me especializo en construir suites de prueba confiables y escalables usando Python, Selenium, Playwright y Cypress — con integración continua desde el primer commit.
+### 🚀 QA Engineer | Python • Selenium • Playwright • Cypress • SQL
+👾 Amante de la tecnología, Android y los videojuegos.
 
 ---
 
-## 🛠️ Stack técnico
+## 🔎 Sobre mí
+
+🐞 **Cazador de bugs** por pasión y profesión.
+💻 Experiencia en **pruebas manuales y automatizadas** — UI, API y E2E.
+🤖 Ex miembro de la comunidad **CyanogenMod** — llevo años reportando bugs antes de saber que era QA.
+🎮 Moderador de la scene de **Nintendo 3DS** en Facebook.
+📚 Siempre aprendiendo más sobre automatización, metodologías ágiles y QA avanzado.
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 **Automatización UI**
 
@@ -50,12 +59,8 @@ Cazador de bugs por pasión y profesión. Me especializo en construir suites de 
 
 ---
 
-## 🔎 Sobre mí
+## 🎯 Objetivo
 
-- 🤖 Ex miembro de la comunidad **CyanogenMod** — llevo años reportando bugs antes de saber que era QA.
-- 🎮 Moderador de la scene de **Nintendo 3DS** en Facebook.
-- 📚 Siempre aprendiendo: metodologías ágiles, shift-left testing y nuevas herramientas de automatización.
+Seguir creciendo como QA Engineer, aplicando mi curiosidad y creatividad para garantizar software de calidad y experiencias increíbles para los usuarios.
 
----
-
-*"Transformando bugs en mejoras, una prueba a la vez."*
+⚡ *"Transformando bugs en mejoras, una prueba a la vez."*
