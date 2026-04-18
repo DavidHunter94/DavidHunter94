@@ -45,9 +45,7 @@
 
 ## 🌐 Encuéntrame
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-davidhunter94.github.io-1B5FA3?style=for-the-badge&logo=github&logoColor=white)](https://davidhunter94.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidmartinez94-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmartinez94)
-[![Email](https://img.shields.io/badge/Email-davidmatiasmh94%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmatiasmh94@gmail.com)
+[Portfolio](https://davidhunter94.github.io) · [LinkedIn](https://linkedin.com/in/davidmartinez94) · [davidmatiasmh94@gmail.com](mailto:davidmatiasmh94@gmail.com)
 
 ---
 
