@@ -1,21 +1,30 @@
-# ✨ ¡Hola, soy Víctor David! 👋
+<div align="center">
 
-### 🚀 QA Engineer | Python • Selenium • Playwright • Cypress • SQL
-👾 Amante de la tecnología, Android y los videojuegos.
+### QA ENGINEER
+
+# David Martínez
+
+**Automatización · API Testing · CI/CD**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-davidhunter94.github.io-1B5FA3?style=for-the-badge&logo=github&logoColor=white)](https://davidhunter94.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidmartinez94-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmartinez94)
+[![Email](https://img.shields.io/badge/Email-davidmatiasmh94@gmail.com-7d8590?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidmatiasmh94@gmail.com)
+
+</div>
 
 ---
 
-## 🔎 Sobre mí
+## Sobre mí
 
-🐞 **Cazador de bugs** por pasión y profesión.
-💻 Experiencia en **pruebas manuales y automatizadas** — UI, API y E2E.
-🤖 Ex miembro de la comunidad **CyanogenMod** — llevo años reportando bugs antes de saber que era QA.
+QA Engineer de **Oaxaca, México**. Me especializo en automatización de pruebas UI y API con Python, Selenium, Playwright y Cypress — con CI/CD integrado desde el primer commit.
+
+🤖 Ex miembro de **CyanogenMod** — reportando bugs antes de saber que era QA.
 🎮 Moderador de la scene de **Nintendo 3DS** en Facebook.
-📚 Siempre aprendiendo más sobre automatización, metodologías ágiles y QA avanzado.
+📍 Disponible para trabajo remoto.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Stack técnico
 
 **Automatización UI**
 
@@ -40,27 +49,26 @@
 
 ---
 
-## 📁 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [qa-automation-playwright](https://github.com/DavidHunter94/qa-automation-playwright) | Automatización UI E2E con CI/CD | Playwright · pytest · GitHub Actions |
-| [qa-project-Urban-Routes-es](https://github.com/DavidHunter94/qa-project-Urban-Routes-es) | Flujo completo de solicitud de taxi | Selenium · pytest |
-| [Proyecto-urban-grocers-api-tests](https://github.com/DavidHunter94/Proyecto-urban-grocers-api-tests) | Pruebas de API con validación de límites | Python · pytest · requests |
-| [urban-routes-cypress](https://github.com/DavidHunter94/urban-routes-cypress) | Automatización E2E multi-framework con POM | Cypress · JavaScript |
-| [test-pokeapi](https://github.com/DavidHunter94/test-pokeapi) | 10 verificaciones contra PokéAPI | Python · requests |
+| [**Urban Routes — Playwright**](https://github.com/DavidHunter94/qa-automation-playwright) | 9 pruebas E2E automatizadas con CI/CD activo | `Python` · `Playwright` · `pytest` · `GitHub Actions` |
+| [**Urban Routes — Selenium**](https://github.com/DavidHunter94/qa-project-Urban-Routes-es) | Flujo E2E completo de solicitud de taxi | `Python` · `Selenium 4` · `pytest` · `POM` |
+| [**Urban Grocers — API**](https://github.com/DavidHunter94/Proyecto-urban-grocers-api-tests) | Validación de endpoint con casos positivos, negativos y límites | `Python` · `pytest` · `requests` |
+| [**Urban Routes — Cypress**](https://github.com/DavidHunter94/urban-routes-cypress) | E2E con verificación dinámica de SMS | `JavaScript` · `Cypress 13` · `Node.js` |
+| [**PokeAPI — Verificación**](https://github.com/DavidHunter94/test-pokeapi) | 10 casos de prueba contra API pública | `Python` · `requests` |
 
 ---
 
-## 🌐 Encuéntrame
+## Educación
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmartinez94)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B5FA3?style=flat&logo=github&logoColor=white)](https://davidhunter94.github.io)
+**Bootcamp QA Engineer** — TripleTen LatAm · *2024–2025*
+Automatización de pruebas, testing de APIs, Selenium, Playwright, Scrum.
 
 ---
 
-## 🎯 Objetivo
+<div align="center">
+<sub>Transformando bugs en mejoras, una prueba a la vez.</sub>
+</div>
 
-Seguir creciendo como QA Engineer, aplicando mi curiosidad y creatividad para garantizar software de calidad y experiencias increíbles para los usuarios.
-
-⚡ *"Transformando bugs en mejoras, una prueba a la vez."*
